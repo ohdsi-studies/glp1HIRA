@@ -1,0 +1,124 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+3970,3972,434165,Abnormal cervical smear,outcome
+3970,3972,436409,Abnormal pupil,outcome
+3970,3972,199192,Abrasion and/or friction burn of trunk without infection,outcome
+3970,3972,4088290,Absence of breast,outcome
+3970,3972,4092879,Absent kidney,outcome
+3970,3972,436634,Acariasis,outcome
+3970,3972,44783954,Acid reflux,outcome
+3970,3972,75911,Acquired hallux valgus,outcome
+3970,3972,137951,Acquired keratoderma,outcome
+3970,3972,77965,Acquired trigger finger,outcome
+3970,3972,376707,Acute conjunctivitis,outcome
+3970,3972,4103640,Amputated foot,outcome
+3970,3972,432595,Amyloidosis,outcome
+3970,3972,73241,Anal and rectal polyp,outcome
+3970,3972,437082,Ankylosing spondylitis,outcome
+3970,3972,77650,Aseptic necrosis of bone,outcome
+3970,3972,378424,Astigmatism,outcome
+3970,3972,374923,Bell's palsy,outcome
+3970,3972,4110709,Benign epithelial neoplasm of skin,outcome
+3970,3972,133655,Burn of forearm,outcome
+3970,3972,73560,Calcaneal spur,outcome
+3970,3972,434327,Cannabis abuse,outcome
+3970,3972,4213540,Cervical somatic dysfunction,outcome
+3970,3972,381581,Chalazion,outcome
+3970,3972,140842,Changes in skin texture,outcome
+3970,3972,438531,Chondromalacia,outcome
+3970,3972,81378,Chondromalacia of patella,outcome
+3970,3972,432303,Cocaine abuse,outcome
+3970,3972,4201390,Colostomy present,outcome
+3970,3972,46269889,Complication due to Crohn's disease,outcome
+3970,3972,134438,Contact dermatitis,outcome
+3970,3972,78619,Contusion of knee,outcome
+3970,3972,201606,Crohn's disease,outcome
+3970,3972,260134,Croup,outcome
+3970,3972,76786,Derangement of knee,outcome
+3970,3972,4115402,Difficulty sleeping,outcome
+3970,3972,443767,Disorder of eye due to diabetes mellitus,outcome
+3970,3972,45757370,Disproportion of reconstructed breast,outcome
+3970,3972,433111,Effects of hunger,outcome
+3970,3972,441589,Endocarditis,outcome
+3970,3972,200775,Endometrial hyperplasia,outcome
+3970,3972,433527,Endometriosis,outcome
+3970,3972,73008,Enthesopathy,outcome
+3970,3972,4249170,Epicondylitis,outcome
+3970,3972,4170770,Epidermoid cyst,outcome
+3970,3972,4345472,Epstein-Barr virus disease,outcome
+3970,3972,4092896,Feces contents abnormal,outcome
+3970,3972,259995,Foreign body in orifice,outcome
+3970,3972,4050747,Fracture of upper limb,outcome
+3970,3972,196456,Gallstone,outcome
+3970,3972,40481632,Ganglion cyst,outcome
+3970,3972,4166231,Genetic predisposition,outcome
+3970,3972,74855,Genital herpes simplex,outcome
+3970,3972,433577,Hammer toe,outcome
+3970,3972,441818,Hemangioma,outcome
+3970,3972,4231770,Hereditary thrombophilia,outcome
+3970,3972,440329,Herpes zoster without complication,outcome
+3970,3972,4012570,High risk sexual behavior,outcome
+3970,3972,4038835,Hodgkin's disease,outcome
+3970,3972,4012934,Homocystinuria,outcome
+3970,3972,441788,Human papilloma virus infection,outcome
+3970,3972,380688,Hypoglycemic coma,outcome
+3970,3972,4254542,Hypopituitarism,outcome
+3970,3972,4201717,Ileostomy present,outcome
+3970,3972,374375,Impacted cerumen,outcome
+3970,3972,140480,Impetigo,outcome
+3970,3972,4344500,Impingement syndrome of shoulder region,outcome
+3970,3972,139099,Ingrowing nail,outcome
+3970,3972,444132,Injury of knee,outcome
+3970,3972,434926,Iridocyclitis,outcome
+3970,3972,196168,Irregular periods,outcome
+3970,3972,75576,Irritable bowel syndrome,outcome
+3970,3972,432593,Kwashiorkor,outcome
+3970,3972,434203,Late effect of contusion,outcome
+3970,3972,438329,Late effect of motor vehicle accident,outcome
+3970,3972,443285,Lesion of cervix,outcome
+3970,3972,195873,Leukorrhea,outcome
+3970,3972,440638,Lyme disease,outcome
+3970,3972,4083487,Macular drusen,outcome
+3970,3972,4156115,Malignant neoplasm of endocrine gland,outcome
+3970,3972,4103703,Melena,outcome
+3970,3972,4134455,Mononeuropathy,outcome
+3970,3972,4209423,Nicotine dependence,outcome
+3970,3972,377572,Noise effects on inner ear,outcome
+3970,3972,136368,Non-toxic multinodular goiter,outcome
+3970,3972,40480893,Nonspecific tuberculin test reaction,outcome
+3970,3972,4215978,Onychomycosis,outcome
+3970,3972,140648,Onychomycosis due to dermatophyte,outcome
+3970,3972,438130,Opioid abuse,outcome
+3970,3972,75354,Osteochondropathy,outcome
+3970,3972,192606,Paraplegia,outcome
+3970,3972,4091513,Passing flatus,outcome
+3970,3972,4112731,Polyp of intestine,outcome
+3970,3972,4202045,Postviral fatigue syndrome,outcome
+3970,3972,373478,Presbyopia,outcome
+3970,3972,46286594,Problem related to lifestyle,outcome
+3970,3972,439790,Psychalgia,outcome
+3970,3972,81634,Ptotic breast,outcome
+3970,3972,253954,Pulmonary tuberculosis,outcome
+3970,3972,4087647,Rectal mass,outcome
+3970,3972,380706,Regular astigmatism,outcome
+3970,3972,438688,Sarcoidosis,outcome
+3970,3972,4169984,Scar,outcome
+3970,3972,141932,Senile hyperkeratosis,outcome
+3970,3972,196236,Septic shock,outcome
+3970,3972,254443,Sjogren's syndrome,outcome
+3970,3972,36713918,Somatic dysfunction of lumbar region,outcome
+3970,3972,443172,"Splinter of face, without major open wound",outcome
+3970,3972,81151,Sprain of ankle,outcome
+3970,3972,72748,Strain of rotator cuff capsule,outcome
+3970,3972,378427,Tear film insufficiency,outcome
+3970,3972,134461,Tietze's disease,outcome
+3970,3972,437264,Tobacco dependence syndrome,outcome
+3970,3972,4234533,Tonsillitis,outcome
+3970,3972,4030042,Toxic goiter,outcome
+3970,3972,81893,Ulcerative colitis,outcome
+3970,3972,194083,Vaginitis and vulvovaginitis,outcome
+3970,3972,140641,Verruca vulgaris,outcome
+3970,3972,380038,Viral conjunctivitis,outcome
+3970,3972,4291005,Viral hepatitis,outcome
+3970,3972,4248870,Visceroptosis,outcome
+3970,3972,4115367,Wrist joint pain,outcome
+3970,3972,440193,Wristdrop,outcome

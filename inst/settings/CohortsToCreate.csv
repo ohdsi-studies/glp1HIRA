@@ -1,0 +1,12 @@
+atlasId,atlasName,cohortId,name
+3970,"[dylee] T2DM + GLP1a new user (main, vs SGLT2i)",3970,dylee_T2DM__GLP1a_new_user_main_vs_SGLT2i
+3972,"[dylee] T2DM + SGLT2i new user (main, vs GLP1a)",3972,dylee_T2DM__SGLT2i_new_user_main_vs_GLP1a
+3973,[dylee] biliary disease,3973,dylee_biliary_disease
+3974,[dylee] pancreatitis,3974,dylee_pancreatitis
+3975,[dylee] bowel obstruction,3975,dylee_bowel_obstruction
+3976,[dylee] suicide,3976,dylee_suicide
+3977,[dylee] depression for hira,3977,dylee_depression_for_hira
+3978,[dylee] anxiety for hira,3978,dylee_anxiety_for_hira
+3979,[dylee] dementia for hira,3979,dylee_dementia_for_hira
+3980,[dylee] alzheimer for hira,3980,dylee_alzheimer_for_hira
+3981,[dylee] vascular for hira,3981,dylee_vascular_for_hira
