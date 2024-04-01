@@ -1,6 +1,8 @@
 atlasId,atlasName,cohortId,name
 3970,"[dylee] T2DM + GLP1a new user (main, vs SGLT2i)",3970,dylee_T2DM__GLP1a_new_user_main_vs_SGLT2i
 3972,"[dylee] T2DM + SGLT2i new user (main, vs GLP1a)",3972,dylee_T2DM__SGLT2i_new_user_main_vs_GLP1a
+2179,[JJH] 3-point MACE (LEGEND-T2DM),2179,JJH_3point_MACE_LEGENDT2DM
+2180,[JJH] 4-point MACE (LEGEND-T2DM),2180,JJH_4point_MACE_LEGENDT2DM
 3973,[dylee] biliary disease,3973,dylee_biliary_disease
 3974,[dylee] pancreatitis,3974,dylee_pancreatitis
 3975,[dylee] bowel obstruction,3975,dylee_bowel_obstruction
@@ -10,3 +12,11 @@ atlasId,atlasName,cohortId,name
 3979,[dylee] dementia for hira,3979,dylee_dementia_for_hira
 3980,[dylee] alzheimer for hira,3980,dylee_alzheimer_for_hira
 3981,[dylee] vascular for hira,3981,dylee_vascular_for_hira
+4169,[CKim] sleep disorder (1) (1),4169,CKim_sleep_disorder_1_1
+4170,[dylee] suicide_death,4170,dylee_suicide_death
+4171,"[dylee] T2DM + GLP1a new user (main, vs DPP4)",4171,dylee_T2DM__GLP1a_new_user_main_vs_DPP4
+4172,"[dylee] T2DM + DPP4 new user (main, vs GLP1a)",4172,dylee_T2DM__DPP4_new_user_main_vs_GLP1a
+4173,"[dylee] T2DM + GLP1a new user (main, vs SU)",4173,dylee_T2DM__GLP1a_new_user_main_vs_SU
+4174,"[dylee] T2DM + Sulfonylurea new user (main, vs GLP1a)",4174,dylee_T2DM__Sulfonylurea_new_user_main_vs_GLP1a
+4175,"[dylee] T2DM + GLP1a new user (main, vs others)",4175,dylee_T2DM__GLP1a_new_user_main_vs_others
+4176,"[dylee] T2DM +others new user (main, vs GLP1a)",4176,dylee_T2DM_others_new_user_main_vs_GLP1a

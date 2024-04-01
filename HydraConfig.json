@@ -5,11 +5,11 @@
 	"actions":[{
 		"type": "fileNameFindAndReplace",
 		"input": "packageName",
-		"find": "glpHiraV1"
+		"find": "glp1HIRAV2"
 	},{
 		"type": "stringFindAndReplace",
 		"input": "packageName",
-		"find": "glpHiraV1"
+		"find": "glp1HIRAV2"
 	},{
 		"type": "jsonArrayToCsv",
 		"input": "cohortDefinitions",
