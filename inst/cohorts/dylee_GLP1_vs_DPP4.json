@@ -10,42 +10,23 @@
   },
   "ConceptSets": [
     {
-      "expression": {"items": [
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 201826,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "44054006",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Type 2 diabetes mellitus",
-            "DOMAIN_ID": "Condition",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 201826,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "44054006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Type 2 diabetes mellitus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
         },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 4193704,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "313436004",
-            "VOCABULARY_ID": "SNOMED",
-            "CONCEPT_NAME": "Type 2 diabetes mellitus without complication",
-            "DOMAIN_ID": "Condition",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Finding",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        }
-      ]},
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
       "name": "[PCH] T2DM",
       "id": 1
     },
@@ -68,183 +49,7 @@
         "includeDescendants": true
       }]},
       "name": "[PCH] T1DM",
-      "id": 15
-    },
-    {
-      "expression": {"items": [
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 42922959,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "OMOP4649759",
-            "VOCABULARY_ID": "RxNorm Extension",
-            "CONCEPT_NAME": "0.5 ML dulaglutide 3 MG/ML Pen Injector",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 42922767,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "OMOP4649757",
-            "VOCABULARY_ID": "RxNorm Extension",
-            "CONCEPT_NAME": "0.5 ML dulaglutide 1.5 MG/ML Pen Injector",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1501756,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10AE54",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1123739,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BJ04",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "albiglutide; parenteral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1123633,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BJ01",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "exenatide; parenteral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1123609,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BJ03",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "lixisenatide; parenteral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 45774435,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1551291",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "dulaglutide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1583722,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "60548",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "exenatide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 40170911,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "475968",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "liraglutide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 44506754,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1440051",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "lixisenatide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        }
-      ]},
-      "name": "[PCH] GLP1a (final) - T2DM",
-      "id": 16
+      "id": 21
     },
     {
       "expression": {"items": [{
@@ -265,7 +70,7 @@
         "includeDescendants": true
       }]},
       "name": "[PSW] Heart failure",
-      "id": 17
+      "id": 31
     },
     {
       "expression": {"items": [
@@ -1067,155 +872,25 @@
           },
           "includeMapped": false,
           "includeDescendants": true
-        },
+        }
+      ]},
+      "name": "[JJH] DPP4 and MET + DPP4_230420",
+      "id": 32
+    },
+    {
+      "expression": {"items": [
         {
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 44785829,
+            "CONCEPT_ID": 42922959,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1488564",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "dapagliflozin",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 44785831,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1488569",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "dapagliflozin 10 MG Oral Tablet",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Drug",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1123890,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BK01",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "dapagliflozin; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 45774751,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1545653",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "empagliflozin",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 45774754,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1545658",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "empagliflozin 10 MG Oral Tablet",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Clinical Drug",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1123740,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BK03",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "empagliflozin; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 793293,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "1992672",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "ertugliflozin",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 715887,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BK04",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "ertugliflozin; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 43009020,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "OMOP4700446",
+            "CONCEPT_CODE": "OMOP4649759",
             "VOCABULARY_ID": "RxNorm Extension",
-            "CONCEPT_NAME": "ipragliflozin",
+            "CONCEPT_NAME": "0.5 ML dulaglutide 3 MG/ML Pen Injector",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
@@ -1225,65 +900,14 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 715760,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BK05",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "ipragliflozin; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 43534751,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BD15",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "metformin and dapagliflozin; systemic",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1588671,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BD20",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "metformin and empagliflozin; systemic",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1594973,
+            "CONCEPT_ID": 42922767,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "2404",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "chlorpropamide",
+            "CONCEPT_CODE": "OMOP4649757",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "0.5 ML dulaglutide 1.5 MG/ML Pen Injector",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
             "INVALID_REASON": "V"
           },
           "includeMapped": false,
@@ -1293,11 +917,11 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600751,
+            "CONCEPT_ID": 1501756,
             "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB02",
+            "CONCEPT_CODE": "A10AE54",
             "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "chlorpropamide; oral",
+            "CONCEPT_NAME": "insulin glargine and lixisenatide; systemic",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Classification",
             "CONCEPT_CLASS_ID": "ATC 5th",
@@ -1310,11 +934,62 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1597756,
+            "CONCEPT_ID": 1123739,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A10BJ04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "albiglutide; parenteral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1123633,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A10BJ01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "exenatide; parenteral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1123609,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A10BJ03",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "lixisenatide; parenteral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45774435,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "25789",
+            "CONCEPT_CODE": "1551291",
             "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "glimepiride",
+            "CONCEPT_NAME": "dulaglutide",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
             "CONCEPT_CLASS_ID": "Ingredient",
@@ -1327,62 +1002,11 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600771,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BD06",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "glimepiride and pioglitazone; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600769,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BD04",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "glimepiride and rosiglitazone; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600761,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB12",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "glimepiride; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1560171,
+            "CONCEPT_ID": 1583722,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "4821",
+            "CONCEPT_CODE": "60548",
             "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "glipizide",
+            "CONCEPT_NAME": "exenatide",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
             "CONCEPT_CLASS_ID": "Ingredient",
@@ -1395,28 +1019,11 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600756,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB07",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "glipizide; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 19097821,
+            "CONCEPT_ID": 40170911,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "25793",
+            "CONCEPT_CODE": "475968",
             "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "gliquidone",
+            "CONCEPT_NAME": "liraglutide",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
             "CONCEPT_CLASS_ID": "Ingredient",
@@ -1429,28 +1036,11 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600757,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB08",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "gliquidone; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1559684,
+            "CONCEPT_ID": 44506754,
             "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "4815",
+            "CONCEPT_CODE": "1440051",
             "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "glyburide",
+            "CONCEPT_NAME": "lixisenatide",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Standard",
             "CONCEPT_CLASS_ID": "Ingredient",
@@ -1463,79 +1053,11 @@
           "isExcluded": false,
           "concept": {
             "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1502809,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "10633",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "tolazamide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600754,
+            "CONCEPT_ID": 1588678,
             "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB05",
+            "CONCEPT_CODE": "A10AE56",
             "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "tolazamide; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 1502855,
-            "STANDARD_CONCEPT": "S",
-            "CONCEPT_CODE": "10635",
-            "VOCABULARY_ID": "RxNorm",
-            "CONCEPT_NAME": "tolbutamide",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Standard",
-            "CONCEPT_CLASS_ID": "Ingredient",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21600752,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "A10BB03",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "tolbutamide; oral",
-            "DOMAIN_ID": "Drug",
-            "STANDARD_CONCEPT_CAPTION": "Classification",
-            "CONCEPT_CLASS_ID": "ATC 5th",
-            "INVALID_REASON": "V"
-          },
-          "includeMapped": false,
-          "includeDescendants": true
-        },
-        {
-          "isExcluded": false,
-          "concept": {
-            "INVALID_REASON_CAPTION": "Valid",
-            "CONCEPT_ID": 21605299,
-            "STANDARD_CONCEPT": "C",
-            "CONCEPT_CODE": "V04CA01",
-            "VOCABULARY_ID": "ATC",
-            "CONCEPT_NAME": "tolbutamide; systemic",
+            "CONCEPT_NAME": "insulin degludec and liraglutide; parenteral",
             "DOMAIN_ID": "Drug",
             "STANDARD_CONCEPT_CAPTION": "Classification",
             "CONCEPT_CLASS_ID": "ATC 5th",
@@ -1545,12 +1067,52 @@
           "includeDescendants": true
         }
       ]},
-      "name": "[dylee] others (SGLT2 DPP4 sulfonylurea)",
-      "id": 19
+      "name": "[dylee] GLP1a (240403)",
+      "id": 33
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1596977,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "253182",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "insulin, regular, human",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600713,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A10A",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "INSULINS AND ANALOGUES",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 3rd",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[dylee]insulin",
+      "id": 34
     }
   ],
   "EndStrategy": {"CustomEra": {
-    "DrugCodesetId": 19,
+    "DrugCodesetId": 33,
     "DaysSupplyOverride": null,
     "GapDays": 30,
     "Offset": 0
@@ -1560,7 +1122,7 @@
     "OccurrenceEndDate": null,
     "CorrelatedCriteria": null,
     "DrugSourceConcept": null,
-    "CodesetId": 16,
+    "CodesetId": 32,
     "DrugTypeExclude": false,
     "Quantity": null,
     "DrugType": null,
@@ -1651,7 +1213,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 15,
+            "CodesetId": 21,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -1700,7 +1262,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "DrugSourceConcept": null,
-            "CodesetId": 16,
+            "CodesetId": 32,
             "DrugTypeExclude": false,
             "Quantity": null,
             "DrugType": null,
@@ -1730,7 +1292,7 @@
         "Groups": [],
         "Count": null
       },
-      "name": "No GLP1a before index date",
+      "name": "No DPP4 before index date",
       "description": null
     },
     {
@@ -1745,7 +1307,7 @@
             },
             "End": {
               "Days": 0,
-              "Coeff": 1
+              "Coeff": -1
             },
             "UseIndexEnd": false
           },
@@ -1755,7 +1317,7 @@
             "OccurrenceEndDate": null,
             "CorrelatedCriteria": null,
             "ConditionTypeExclude": false,
-            "CodesetId": 17,
+            "CodesetId": 31,
             "ProviderSpecialty": null,
             "Gender": null,
             "VisitType": null,
@@ -1769,7 +1331,7 @@
           }},
           "Occurrence": {
             "Type": 0,
-            "CountColumn": "DOMAIN_CONCEPT",
+            "CountColumn": null,
             "IsDistinct": false,
             "Count": 0
           }
@@ -1781,6 +1343,61 @@
       },
       "name": "No previous heart failure",
       "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 34,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "without insulin",
+      "description": null
     }
   ],
   "PrimaryCriteria": {
@@ -1788,7 +1405,7 @@
       "OccurrenceEndDate": null,
       "CorrelatedCriteria": null,
       "DrugSourceConcept": null,
-      "CodesetId": 19,
+      "CodesetId": 33,
       "DrugTypeExclude": false,
       "Quantity": null,
       "DrugType": null,
