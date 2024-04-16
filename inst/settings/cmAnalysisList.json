@@ -201,7 +201,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -251,7 +251,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -485,7 +485,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -535,7 +535,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -769,7 +769,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -819,7 +819,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1053,7 +1053,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1103,7 +1103,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1337,7 +1337,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1387,7 +1387,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1621,7 +1621,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1671,7 +1671,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1905,7 +1905,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -1955,7 +1955,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2189,7 +2189,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2239,7 +2239,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2473,7 +2473,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2523,7 +2523,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2757,7 +2757,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -2807,7 +2807,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -3041,7 +3041,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -3091,7 +3091,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -3325,7 +3325,7 @@
       },
       "errorOnHighCorrelation": true,
       "control": {
-        "maxIterations": 3000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
@@ -3375,7 +3375,7 @@
       },
       "inversePtWeighting": false,
       "control": {
-        "maxIterations": 1000,
+        "maxIterations": 10000,
         "autoSearch": true,
         "seed": 1,
         "initialBound": 2,
