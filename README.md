@@ -1,6 +1,20 @@
-glpHiraV3
+Safety of GLP-1 agonist
 ==============================
 
+<img src="https://img.shields.io/badge/Study%20Status-Design%20Finalized-brightgreen.svg" alt="Study Status: Design Finalized">
+
+- Analytics use case(s): **Population-Level Estimation**
+- Study type: **Clinical Application**
+- Tags: **OHDSI-Korea, Psychiatry**
+- Study lead: **Seng Chan You, Dong Yun Lee, Chungsoo Kim**
+- Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/SCYou)**
+- Study start date: **May 15, 2024**
+- Study end date:
+- Protocol: 
+- Publications:
+- Results explorer:
+
+This study aims to conduct comparative safety assessment of GLP-1 agonist versus other DM medication in patients with dibetes mellitus
 
 Requirements
 ============
